@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manasa based out of Sydney, Australia.
-- 👀 I’m interested in Data Science, 
-- 🌱 I’m currently learning R and Python, 
+- 👀 I’m interested in Data Science,  
 - 💞️ I’m looking to collaborate on Data related projects.
 - 📫 Send an direct message @manasatadipathri.
 
